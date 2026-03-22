@@ -3,7 +3,7 @@
 **Katefi** is redefining the *yap-to-earn* economy with a fully decentralized approach.  
 Built on resilient, trustless infrastructure, Katefi eliminates fragile centralized chokepoints and empowers users to earn through authentic engagement.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : AY3zCzDgxV7LXtjywCeEJt5y9vJP486L99moR2Nnpump
 ---
 
 ## 🌐 Links
